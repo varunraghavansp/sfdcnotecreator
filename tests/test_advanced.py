@@ -9,7 +9,7 @@ class AdvancedTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
     def test_positive(self):
-        self.assertEqual(sfdcnotecreator.core.processnotes,0)
+        sfdcnotecreator.core.processnotes
 
 
 if __name__ == '__main__':

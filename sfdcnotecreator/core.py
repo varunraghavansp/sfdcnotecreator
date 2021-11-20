@@ -27,5 +27,4 @@ def writetofile(df):
         f = open(row['FILENAME'], 'w')
         f.write(str(row['CONTENT']))
         f.close()
-
-processnotes()
+        

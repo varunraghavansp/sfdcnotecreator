@@ -1,7 +1,18 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .DS_Store
-
+*.spec
+build/
+dist/cli/lib-dynload
+dist/cli/pandas
+dist/cli/*.dylib
+dist/cli/Python
+dist/cli/base_library.zip
+dist/cli/pytz
+dist/cli/numpy
+dist/cli/Python
+dist/cli/setuptools*
+dist/cli/pyodbc*
 
 # Output
 Output/

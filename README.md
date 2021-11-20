@@ -7,6 +7,7 @@ Simple Python Project for taking Note Data from a database connected via ODBC & 
 
 ```python sfdcnotecreator```
 
-**For Creating a redistributable binary for windows***
+**For Creating a redistributable binary for windows**
+
 ```pip install pyinstaller```
 ```pyinstaller cli.py```

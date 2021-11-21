@@ -3,11 +3,11 @@ Simple Python Project for taking Note Data from a database connected via ODBC & 
 
 **Usage**
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
-```python sfdcnotecreator```
+```python cli.py```
 
-**For Creating a redistributable binary for windows**
+**For Creating a redistributable binary **
 
 ```pip install pyinstaller```
 
